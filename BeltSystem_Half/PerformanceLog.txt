@@ -5,9 +5,9 @@ Standard solid mesh total preparation including imprint:  0 hr 0 min 0 sec
 Standard surface meshing for Solid Mesh:  0 hr 0 min 0 sec
 Standard volume meshing for Solid Mesh:  0 hr 0 min 1 sec
 Standard surface meshing for Solid Mesh:  0 hr 0 min 0 sec
-Standard volume meshing for Solid Mesh:  0 hr 0 min 0 sec
-Standard surface meshing for Solid Mesh:  0 hr 0 min 1 sec
 Standard volume meshing for Solid Mesh:  0 hr 0 min 1 sec
+Standard surface meshing for Solid Mesh:  0 hr 0 min 1 sec
+Standard volume meshing for Solid Mesh:  0 hr 0 min 2 sec
 Standard solid mesh arranging data:  0 hr 0 min 0 sec
 Standard solid mesh total:  0 hr 0 min 3 sec
 Beam mesh:  0 hr 0 min 0 sec
@@ -24,7 +24,7 @@ Generating contacts:  0 hr 0 min 0 sec
 Number of Contacts: 1
 Transfer SL1 data:  0 hr 0 min 0 sec
 Generate more accurate contact data:  0 hr 0 min 0 sec
-Number of contact data: 926
+Number of contact data: 960
 Transfer beam/joint contact data:  0 hr 0 min 0 sec
 Transferring other special loads:  0 hr 0 min 0 sec
 Transferring bearing loads:  0 hr 0 min 0 sec
