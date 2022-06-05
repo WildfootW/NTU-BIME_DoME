@@ -1,0 +1,277 @@
+/COM,ANSYS RELEASE 2022 R1           BUILD 22.1      UP20211129       06:11:14
+
+ *** WARNING ***                         CP =       0.359   TIME= 06:11:14
+ Element shape checking is currently inactive.  Issue SHPP,ON or         
+ SHPP,WARN to reactivate, if desired.                                    
+
+ *** WARNING ***                         CP =       0.359   TIME= 06:11:14
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =       0.547   TIME= 06:11:14
+ Overconstraint may occur for Lagrange multiplier or MPC based contact   
+ algorithm.                                                              
+
+ *** WARNING ***                         CP =       0.562   TIME= 06:11:14
+ Boundary conditions, coupling, and/or constraint equations have been    
+ applied on certain contact nodes (for example 1999).                    
+
+ *** WARNING ***                         CP =       1.641   TIME= 06:11:15
+ For element 1192 the element connectivity is 0 and 1998.  The node      
+ which is identified as a 0 will be a grounded node.                     
+
+ *** WARNING ***                         CP =       1.641   TIME= 06:11:15
+ For element 1191 the element connectivity is 0 and 1996.  The node      
+ which is identified as a 0 will be a grounded node.                     
+
+ *** WARNING ***                         CP =       1.875   TIME= 06:11:16
+ Pivoting has been activated for the Distributed Sparse Matrix Solver .  
+ The memory required may greatly exceed the predicted amount.  In that   
+ event, use the DSPOPTION command to change the memory mode and/or       
+ memory size used by the Distributed Sparse Matrix Solver.               
+
+ *** WARNING ***                         CP =       4.156   TIME= 06:11:18
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =       5.875   TIME= 06:11:20
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =       8.172   TIME= 06:11:22
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      10.719   TIME= 06:11:25
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      13.391   TIME= 06:11:27
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      16.094   TIME= 06:11:30
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      18.875   TIME= 06:11:33
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      21.641   TIME= 06:11:35
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      24.328   TIME= 06:11:38
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      27.328   TIME= 06:11:41
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      30.062   TIME= 06:11:44
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      32.547   TIME= 06:11:46
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      35.297   TIME= 06:11:49
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      37.844   TIME= 06:11:52
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      40.750   TIME= 06:11:55
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      45.656   TIME= 06:12:00
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      50.562   TIME= 06:12:05
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      55.688   TIME= 06:12:10
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      60.750   TIME= 06:12:15
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      65.641   TIME= 06:12:20
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      69.281   TIME= 06:12:24
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      73.453   TIME= 06:12:28
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      82.172   TIME= 06:12:37
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      87.031   TIME= 06:12:41
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      92.422   TIME= 06:12:48
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      99.250   TIME= 06:12:55
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =     105.656   TIME= 06:13:02
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =     110.766   TIME= 06:13:07
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =     116.844   TIME= 06:13:13
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =     122.969   TIME= 06:13:20
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =     128.641   TIME= 06:13:25
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =     136.062   TIME= 06:13:33
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =     144.016   TIME= 06:13:41
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =     150.734   TIME= 06:13:48
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =     161.266   TIME= 06:13:59
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =     173.047   TIME= 06:14:11
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =     183.641   TIME= 06:14:23
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =     197.422   TIME= 06:14:37
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =     207.922   TIME= 06:14:48
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =     216.422   TIME= 06:14:56
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =     233.766   TIME= 06:15:14
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =     239.547   TIME= 06:15:20
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =     251.516   TIME= 06:15:32
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =     258.438   TIME= 06:15:39
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =     264.594   TIME= 06:15:45
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =     274.312   TIME= 06:15:55
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =     283.906   TIME= 06:16:05
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =     289.781   TIME= 06:16:11
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =     303.109   TIME= 06:16:24
+ Material number 10 (used by element 1191) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
